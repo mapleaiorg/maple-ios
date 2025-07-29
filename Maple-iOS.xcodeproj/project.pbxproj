@@ -11,9 +11,9 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		B4C841382E36A15D0070CD1F /* Maple-iOS */ = {
+		B4C841382E36A15D0070CD1F /* Maple */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Maple-iOS";
+			path = Maple;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		B4C8412D2E36A15D0070CD1F = {
 			isa = PBXGroup;
 			children = (
-				B4C841382E36A15D0070CD1F /* Maple-iOS */,
+				B4C841382E36A15D0070CD1F /* Maple */,
 				B4C841372E36A15D0070CD1F /* Products */,
 			);
 			sourceTree = "<group>";
@@ -61,7 +61,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				B4C841382E36A15D0070CD1F /* Maple-iOS */,
+				B4C841382E36A15D0070CD1F /* Maple */,
 			);
 			name = "Maple-iOS";
 			packageProductDependencies = (
